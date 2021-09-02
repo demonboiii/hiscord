@@ -26,7 +26,7 @@
 .side {
     background: #3C3C3C;
     height: 89.5%;
-    width: 200px;
+    width: 13%;
     left: 0px;
     bottom: 0px;
     color: #fff;
@@ -35,7 +35,7 @@
 
 .side h1 {
     position: relative;
-    top: 17px;
+    top: 2%;
     padding-top: 70px;
     padding-left: 70px;
     font-size: 20px;
@@ -70,7 +70,7 @@
 .profiles {
     background: #C4C4C4;
     height: 89.5%;
-    width: 405px;
+    width: 26.4%;
     left: 200px;
     bottom: 0px;
     position: fixed;
@@ -154,16 +154,16 @@
 
 .pro {
     position: fixed;
-    top: 50px;
+    top: 3%;
 }
 .set {
     position: fixed;
-    top: 60px;
+    top: 5%;
 }
 
 .log {
     position: fixed;
-    top: 200px;
+    top: 23%;
 }
 .fri1 {
     position: absolute;
