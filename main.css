@@ -80,7 +80,7 @@
 .texting {
     background: #3C3C3C;
     height: 88px;
-    width: 405px;
+    width: 100%;
     left: 0px;
     top: 176px;
     position: absolute;
@@ -154,16 +154,16 @@
 
 .pro {
     position: fixed;
-    top: 3%;
+    top: 4.5%;
 }
 .set {
     position: fixed;
-    top: 5%;
+    top: 5.5%;
 }
 
 .log {
     position: fixed;
-    top: 23%;
+    top: 21.5%;
 }
 .fri1 {
     position: absolute;
