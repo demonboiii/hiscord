@@ -149,7 +149,7 @@
 
 .logo__pic {
     right: 30px;
-    bottom: 15px;
+    bottom: 25%;
     position: absolute;
 }
 
@@ -215,4 +215,11 @@
     position: absolute;
     left: -90px;
     bottom: -45px;
+}
+.text-bar h1{
+    color:#C4C4C4;
+    font-size: 200%;
+    position: fixed;
+    bottom: 0px;
+    left: 39%;
 }
